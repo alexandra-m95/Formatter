@@ -1,0 +1,14 @@
+[Other_settings]
+number_of_spaces_before_else = 0
+number_of_spaces_before_catch = 0
+number_of_spaces_before_finally = 0
+number_of_spaces_before_while = 0
+number_of_spaces_before_if = 1
+spaces_around_unary_operators = 0
+spaces_around_binary_operators = 1
+
+[Default_current_style]
+move_begin_bracket_to_operator = 0
+number_of_spaces_before_brackets = 0
+number_of_spaces_before_begin_bracket = 0
+number_of_spaces_inside_block = 0
